@@ -1,0 +1,9 @@
+image/Scene_for_play/Role_selection/background.png
+image/Scene_for_play/Role_selection/character_selection_blue_1.png
+image/Scene_for_play/Role_selection/character_selection_red_1.png
+image/Scene_for_play/Role_selection/character_selection_blue_2.png
+image/Scene_for_play/Role_selection/character_selection_red_2.png
+image/Scene_for_play/Role_selection/back_button.png
+image/Scene_for_play/Role_selection/a.png
+image/Scene_for_play/Role_selection/background_role.png
+image/Scene_for_play/Role_selection/background_roleE.png
