@@ -1,4 +1,0 @@
-image/Scene_for_play/Menu/option_button_1.png
-image/Scene_for_play/Menu/option_button_2.png
-image/Scene_for_play/Menu/option_button_3.png
-image/Scene_for_play/Menu/option_button_4.png
