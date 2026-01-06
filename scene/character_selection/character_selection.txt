@@ -1,0 +1,11 @@
+image/character_selection/pr.png
+image/character_selection/ble.png
+image/character_selection/fnue1.png
+image/character_selection/fnue2.png
+image/character_selection/bk1.png
+image/character_selection/bk2.png
+image/character_selection/bk3.png
+image/character_selection/bk4.png
+image/character_selection/buttbk.png
+image/character_selection/buttbkt.png
+image/character_selection/buttbktd.png

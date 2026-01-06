@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "add.h": "c",
+        "new.h": "c",
+        "stdarg.h": "c",
+        "stdio.h": "c",
+        "variable.h": "c",
+        "input_and_output.h": "c",
+        "glfw3.h": "c",
+        "stdlib.h": "c",
+        "windows.h": "c",
+        "stb_image.h": "c",
+        "cstdlib": "cpp",
+        "glfw3native.h": "c",
+        "string.h": "c"
+    },
+}

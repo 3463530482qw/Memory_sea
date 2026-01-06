@@ -1,0 +1,36 @@
+{
+  "version": "2.0.0",
+  "command": "g++",
+  "type": "shell",
+  "presentation": {
+    "echo": true,
+    "reveal": "always",
+    "focus": true,
+    "panel": "shared",
+    "showReuseMessage": true,
+    "clear": false
+  },
+  "args": [
+    "-m64", 
+    "-g", 
+    "-s", 
+    "${file}", 
+    "D:/mingw64/include/glfw/libglfw3.a", 
+    "-lopengl32", 
+    "-lgdi32", 
+    "-luser32", 
+    "-o", 
+    "${fileDirname}/${fileBasenameNoExtension}.exe"],
+  "problemMatcher": {
+    "owner": "cpp",
+    "fileLocation": ["relative", "${workspaceRoot}"],
+    "pattern": {
+      "regexp": "^(.*):(\\d+):(\\d+):\\s+(warning|error):\\s+(.*)$",
+      "file": 1,
+      "line": 2,
+      "column": 3,
+      "severity": 4,
+      "message": 5
+    }
+  }
+}

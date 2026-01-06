@@ -1,0 +1,8 @@
+image/main_menu/pr.png
+image/main_menu/background.png
+image/main_menu/title.png
+image/main_menu/but.png
+image/main_menu/but1.png
+image/main_menu/but2.png
+image/main_menu/but3.png
+image/main_menu/but4.png
