@@ -1,14 +1,4 @@
 image/character_selection/butt/1.png
 image/character_selection/butt/2.png
-image/character_selection/butt/1.png
-image/character_selection/butt/2.png
-image/character_selection/butt/1.png
-image/character_selection/butt/2.png
-image/character_selection/butt/1.png
-image/character_selection/butt/2.png
-image/character_selection/butt/1.png
-image/character_selection/butt/2.png
-image/character_selection/butt/1.png
-image/character_selection/butt/2.png
-image/character_selection/butt/1.png
-image/character_selection/butt/2.png
+image/character_selection/butt/3.png
+image/character_selection/butt/4.png

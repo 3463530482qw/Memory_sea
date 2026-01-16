@@ -1,0 +1,32 @@
+%!Adobe-FontList 1.24
+%Locale:0x804
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LXGWWenKaiLite-Light
+FamilyName:LXGW WenKai Lite
+StyleName:Light
+FullName:LXGW WenKai Lite Light
+MenuName:LXGW WenKai Lite Light
+StyleBits:0
+FamilyNameNative:霞鹜文楷 轻便版
+StyleNameNative:Light
+FullNameNative:霞鹜文楷 轻便版 Light
+WritingScript:SimplifiedChinese
+OutlineFileName:D:\Memory_sea\Font\LXGWWenKaiLite-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:15664368
+FileModTime:1757853741
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,LXGW WenKai Lite Light
+NameArray:0,Win,16,LXGW WenKai Lite
+NameArray:25,Win,1,霞鹜文楷 轻便版 Light
+NameArray:25,Win,16,霞鹜文楷 轻便版
+%EndFont
+
